@@ -2,7 +2,8 @@ package de.hfu;
 import java.util.*;
 /**
  * Hello world!
- *
+ *@author jonas
+ *@version 1.0
  */
 public class Buchstaben 
 {
