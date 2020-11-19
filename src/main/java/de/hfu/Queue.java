@@ -1,5 +1,4 @@
 package de.hfu;
-
 public class Queue {
    int[] queue;
    int head;

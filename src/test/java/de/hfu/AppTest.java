@@ -9,12 +9,10 @@ import org.junit.Test;
  */
 public class AppTest 
 {
-    /**
-     * Rigorous Test :-)
-     */
     @Test
-    public void shouldAnswerWithTrue()
-    {
-        assertTrue( true );
+    public void testdenqueue() {
+    	assertTrue(Util.istErstesHalbjahr(1));
+    	assertTrue(Util.istErstesHalbjahr(6));
+    	assertTrue(Util.istErstesHalbjahr(7));
     }
 }
